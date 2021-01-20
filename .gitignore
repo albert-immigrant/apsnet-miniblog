@@ -340,5 +340,6 @@ ASALocalRun/
 healthchecksdb
 
 bin/
-
 obj/
+.vs/
+
